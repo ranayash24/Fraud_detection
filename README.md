@@ -74,14 +74,6 @@ data/
 - Integrate real-time prediction on transaction streams
 
 ---
-
-## 👤 Author
-
-**Yash Vinaychandra Rana**  
-Graduate Student, Concordia University  
-📧 yashrana240203@gmail.com  
-📞 +1-438-836-5297
-
 ---
 
 ## 📄 License
